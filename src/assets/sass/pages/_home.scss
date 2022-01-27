@@ -1,0 +1,17 @@
+.container {
+  .layout {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .sign-in-form {
+    display: grid;
+  }
+  .background-left {
+  }
+}
+.flex{
+         display: flex;
+}
+.grid{
+         display: flex;
+}
